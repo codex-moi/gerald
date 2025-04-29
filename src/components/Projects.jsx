@@ -3,7 +3,7 @@ import projects from '../assets/projects'
 const Projects = () => {
   return (
     <>
-    <div className="w-full h-[100vh] bg-black">
+    <div className="w-full h-[100vh] bg-black p-3">
         <h2 className="text-4xl px-[5%] text-white">My Projects</h2>
         <div className="w-full flex flex-wrap">
             {projects.map((project, id) =>
