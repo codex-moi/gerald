@@ -11,5 +11,11 @@ const projects = [
         desc: 'My portfolio website that shows my projects and skills.',
         link: 'https://geraldcodez.vercel.app/'
     },
+    {
+        id: 3,
+        name: 'Movie Website',
+        desc: 'Movie website using API.',
+        link: 'https://geraldfilmland.vercel.app/'
+    },
 ]
 export default projects
