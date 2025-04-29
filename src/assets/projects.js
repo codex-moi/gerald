@@ -9,7 +9,7 @@ const projects = [
         id: 2,
         name: 'My Portfolio',
         desc: 'My portfolio website that shows my projects and skills.',
-        link: 'https://gerald.vercel.app/'
+        link: 'https://geraldcodez.vercel.app/'
     },
 ]
 export default projects
