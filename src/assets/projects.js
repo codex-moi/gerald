@@ -13,9 +13,15 @@ const projects = [
     },
     {
         id: 3,
-        name: 'Movie Website',
+        name: 'Filmland',
         desc: 'Movie website using API.',
         link: 'https://geraldfilmland.vercel.app/'
+    },
+    {
+        id: 4,
+        name: 'KryptoKing',
+        desc: ' website using API.',
+        link: 'https://krypto-king.vercel.app/'
     },
 ]
 export default projects
