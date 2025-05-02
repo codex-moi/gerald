@@ -6,3 +6,6 @@
 *{
     font-family: "Mako", sans-serif;
 }
+body::-webkit-scrollbar {
+    display: none; /* For Chrome, Safari, and Edge */
+  }
